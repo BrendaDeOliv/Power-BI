@@ -14,3 +14,6 @@ Utilizei o ChatGPT para simular esse cenário e estruturar os requisitos do dash
  🔹Impacto de atrasos e distância dos voos na experiência do cliente
  
  🔹Avaliação de serviços como comida, conforto, Wi-Fi e limpeza
+ 
+## ✨ Detalhes de design:
+O plano de fundo do dashboard foi criado no Google Apresentações, permitindo personalizar cores e elementos de forma prática e intuitiva. Já a logo utilizada foi desenvolvida com o auxílio do Adobe Firefly, uma ferramenta de inteligência artificial generativa para criação de imagens.
