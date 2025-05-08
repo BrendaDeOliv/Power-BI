@@ -1,4 +1,6 @@
 # Relatório de Satisfação dos Passageiros
+![image_Dashboard](https://github.com/user-attachments/assets/477e75de-7853-4ab2-a033-87f8c8094787)
+
 
 Neste projeto, desenvolvi um Relatório de Satisfação dos Passageiros utilizando a base Passenger Satisfaction disponível no Kaggle.
 🔗 <https://www.kaggle.com/datasets/johndddddd/customer-satisfaction/data>
