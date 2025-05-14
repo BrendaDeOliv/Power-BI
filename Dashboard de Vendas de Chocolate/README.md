@@ -1,5 +1,5 @@
 # Dashboard de Vendas de Chocolate
-![image_Dashboard](https://github.com/user-attachments/assets/d54045fc-8e1e-470e-b1c5-f307874550c1)
+![image_Dashboard](https://github.com/user-attachments/assets/abdd9f7b-a082-431a-b0de-0993c90969ad)
 
 Para desenvolver esse projeto utilizei a base Chocolate Sales Data disponível no Kaggle.
 
